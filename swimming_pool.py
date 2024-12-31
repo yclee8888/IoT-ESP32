@@ -42,7 +42,3 @@ while True:
             
 print(f"總共{a}張敬老票,{b}張會員票,{c}張非會員票,總共{total}元")
 
-
-
-git config --global user.email "lidoodoo88@gmail.com"
-git config --global user.name "yclee8888"
